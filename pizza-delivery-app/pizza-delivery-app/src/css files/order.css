@@ -1,0 +1,29 @@
+.text-size{
+    font-size: smaller;
+    margin : auto;
+    width: 75%;
+}
+.btn{
+    height: 35px;
+}
+.cart-text-size{
+    font-size: 0.9rem;
+}
+#sidelinks ul {
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+li.a { 
+    display: inline-block;
+    margin-left: 7px;
+    margin-right: 7px; 
+  }
+i{
+    font-size: smaller;
+}
+.cbtn{
+    margin-top: 10px;
+    height: 35px;
+    width: 35px;
+}
